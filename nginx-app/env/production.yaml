@@ -2,4 +2,4 @@ app:
   stage: prod
   image:
     name: nginx
-    tag: 1.22
+    tag: 1.23.1
