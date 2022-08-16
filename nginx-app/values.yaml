@@ -1,0 +1,5 @@
+app:
+  stage: dev
+  image:
+    name: nginx
+    tag: 1.22
