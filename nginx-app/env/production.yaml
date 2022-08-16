@@ -3,3 +3,4 @@ app:
   image:
     name: nginx
     tag: 1.22
+  replicaCount: 2
